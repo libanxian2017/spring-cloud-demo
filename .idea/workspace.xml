@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15de2113-17bf-4f41-939d-07b674b03cce" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/OrderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/pojo/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/web/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/web/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/JavaConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/LogAspectXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/MainXml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/service/MyCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/java/com/centit/www/service/MyCalculatorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aop01/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/ddetest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/src/main/java/com/centit/OkhttpFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/src/main/java/com/centit/dde/user.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/src/main/java/com/centit/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/src/main/java/com/centit/okhttpTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ddetest/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/java/com/centit/www/controller/MyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/java/com/centit/www/controller/MyController2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/java/com/centit/www/controller/MyController3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/java/com/centit/www/service/HelloService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/resources/spring-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvc/src/main/webapp/jsp/hello.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\apache-maven-3.8.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Slwq6k82TlJgbdVCI1JpEoGcmy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Apache-Subversion-1.14.2-2/bin/svn.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="15de2113-17bf-4f41-939d-07b674b03cce" name="更改" comment="" />
+      <created>1689734663996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689734663996</updated>
+      <workItem from="1689734665065" duration="4111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
